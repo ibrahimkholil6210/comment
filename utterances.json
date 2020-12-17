@@ -1,5 +1,5 @@
 {
   "origins": [
-    "https://yourDomain.tld"
+    "http://localhost:3000/"
   ]
 }
